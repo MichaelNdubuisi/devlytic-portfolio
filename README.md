@@ -1,12 +1,12 @@
 # 🚀 Devlytic
 
-A clean, fast, and animated portfolio website built with React, Tailwind CSS, and Framer Motion — representing the personal brand of a passionate freelance web developer.
+A clean, fast, and animated portfolio website built with React, Tailwind CSS, and Framer Motion representing the personal brand of a passionate freelance web developer.
 
 ---
 
 ## 📖 Description
 
-Devlytic is a modern, responsive portfolio website crafted to showcase the skills, projects, and contact information of a freelance web developer. The site emphasizes smooth animations, custom CSS transitions, and a minimalist aesthetic — with mobile-first responsiveness and professional design at its core.
+Devlytic is a modern, responsive portfolio website crafted to showcase the skills, projects, and contact information of a freelance web developer. The site emphasizes smooth animations, custom CSS transitions, and a minimalist aesthetic with mobile-first responsiveness and professional design at its core.
 
 ---
 
